@@ -1,2 +1,2 @@
 # CLseq
-Investigating NK related signatures in cancer cell lines 
+Investigating NK related signatures in bulk RNA-seq data of cancer cell lines 
